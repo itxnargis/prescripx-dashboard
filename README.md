@@ -1,6 +1,6 @@
-# 🏥 prescripx Admin Panel – Manage Healthcare with Ease 🚀  
+# 🏥 Prescripx Admin Panel – Manage Healthcare with Ease 🚀  
 
-The **prescripx Admin Panel** is a **powerful and user-friendly dashboard** designed for **administrators** to manage doctors, appointments, prescriptions, and platform settings efficiently.  
+The **PrescripX Admin Panel** is a **powerful and user-friendly dashboard** designed for **administrators** to manage doctors, appointments, prescriptions, and platform settings efficiently.  
 With a secure and **responsive interface**, admins can monitor and control the entire healthcare ecosystem effortlessly.  
 
 🔹 **Built with React & Redux for smooth UI experience**  
