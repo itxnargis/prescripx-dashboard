@@ -1,6 +1,6 @@
-# 🏥 Prescripto Admin Panel – Manage Healthcare with Ease 🚀  
+# 🏥 prescripx Admin Panel – Manage Healthcare with Ease 🚀  
 
-The **Prescripto Admin Panel** is a **powerful and user-friendly dashboard** designed for **administrators** to manage doctors, appointments, prescriptions, and platform settings efficiently.  
+The **prescripx Admin Panel** is a **powerful and user-friendly dashboard** designed for **administrators** to manage doctors, appointments, prescriptions, and platform settings efficiently.  
 With a secure and **responsive interface**, admins can monitor and control the entire healthcare ecosystem effortlessly.  
 
 🔹 **Built with React & Redux for smooth UI experience**  
@@ -11,7 +11,7 @@ With a secure and **responsive interface**, admins can monitor and control the e
 ---
 
 📢 **Note:** This repository contains only the **Admin Panel (Frontend)**.  
-For the backend API, visit: **[Prescripto Backend](https://github.com/itxnargis/prescripto-backend)**.  
+For the backend API, visit: **[prescripx Backend](https://github.com/itxnargis/prescripx-backend)**.  
 
 ---
 
@@ -53,8 +53,8 @@ For the backend API, visit: **[Prescripto Backend](https://github.com/itxnargis/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/itxnargis/prescripto-admin-panel.git
-   cd prescripto-admin-panel
+   git clone https://github.com/itxnargis/prescripx-admin-panel.git
+   cd prescripx-admin-panel
    
 2. **Install Dependencies**
     ```bash
